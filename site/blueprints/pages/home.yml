@@ -1,0 +1,13 @@
+title: Home
+preset: page
+fields:
+    headline:
+        type: text
+        size: small
+    titleText:
+        type: textarea
+        size: small
+    text:
+        type: textarea
+        size: small
+

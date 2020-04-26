@@ -1,0 +1,16 @@
+title: Meta Info
+preset: page
+fields:
+    searchable:
+        type: text
+        size: small
+    metadesc:
+        type: textarea
+        size: small
+    facebookpixel:
+        type: textarea
+        size: small
+    googleanalytics:
+        type: textarea
+        size: small
+

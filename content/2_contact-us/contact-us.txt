@@ -1,0 +1,185 @@
+Title: Contact Us
+
+----
+
+Headline: BeMo Academic Consulting Inc.
+
+----
+
+Label1: Toll Free:
+
+----
+
+Text1: 1-855-900-BeMo (2366)
+
+----
+
+Label2: Email:
+
+----
+
+Text2: info@bemoacademicconsulting.com
+
+----
+
+Label3: Note:
+
+----
+
+Text3: If you are having difficulties with our contact us form above, send us an email to info@bemoacademicconsulting.com (copy & paste the email address)
+
+----
+
+Fb-form-settings: true
+
+----
+
+Fb-form-id: contact-form
+
+----
+
+Fb-form-class: form
+
+----
+
+Fb-usediv: true
+
+----
+
+Fb-builder:
+
+- 
+  field_name: name
+  field_class: nameInput
+  req: 'true'
+  field_label: 'NAME: *'
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_text
+  _uid: fb_text_1587854055989_454
+- 
+  field_name: email
+  field_class: emailInput
+  req: 'true'
+  field_label: 'EMAIL ADDRESS: *'
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_email
+  _uid: fb_email_1587854111349_831
+- 
+  field_name: message
+  field_class: messageinput
+  req: 'true'
+  field_label: 'HOW CAN WE HELP YOU? *'
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  rows: null
+  _key: fb_textarea
+  _uid: fb_textarea_1587854119728_1183
+
+----
+
+Fb-submit-label: Submit
+
+----
+
+Fb-cancel-label: Reset
+
+----
+
+Fb-formbtns-class: buttons
+
+----
+
+Fb-captcha: false
+
+----
+
+Fb-captcha-theme: false
+
+----
+
+Fb-captcha-secretkey: 
+
+----
+
+Fb-captcha-sitekey: 
+
+----
+
+Fb-is-ajax: true
+
+----
+
+Fb-msg-position: false
+
+----
+
+Fb-success-page: 
+
+----
+
+Fb-error-page: 
+
+----
+
+Fb-success-msg: 
+
+----
+
+Fb-error-msg: 
+
+----
+
+Fb-send-email: true
+
+----
+
+Fb-email-recipient: jakew590@yahoo.com
+
+----
+
+Fb-email-sender-type: true
+
+----
+
+Fb-email-sender: 
+
+----
+
+Fb-email-sender-field: email
+
+----
+
+Fb-email-subject: Message from CDA Interviews
+
+----
+
+Fb-save-submissions: false
+
+----
+
+Fb-key-field: 
+
+----
+
+Fb-received-submissions: 
+
+----
+
+Text:
+
+Toll Free: 1-855-900-BeMo (2366)
+Email: info@bemoacademicconsulting.com
+
+----
+
+Titletext: 

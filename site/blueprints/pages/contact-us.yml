@@ -1,0 +1,30 @@
+title: Contact
+preset: page
+sections:
+    info:
+        type: fields
+        fields:
+            headline:
+                type: text
+                size: small
+            label1:
+                type: text
+                size: small
+            text1:
+                type: textarea
+                size: small
+            label2:
+                type: text
+                size: small
+            text2:
+                type: textarea
+                size: small
+            label3:
+                type: text
+                size: small
+            text3:
+                type: textarea
+                size: small
+    form:
+        extends: formbuilder
+
