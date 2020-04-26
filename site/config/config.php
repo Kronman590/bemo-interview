@@ -8,5 +8,13 @@
  * All config options: https://getkirby.com/docs/reference/system/options
  */
 return [
-    'debug' => true,
-];
+    'email' => [
+        'transport' => [
+          'type' => 'smtp',
+          'host' => 'localhost',
+          'port' => 25,
+          'security' => false,
+          'tls' => false
+          ]
+      ]
+  ];

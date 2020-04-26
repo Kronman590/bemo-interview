@@ -24,8 +24,8 @@
       font: 18px Arial, Verdana, Helvetica, sans-serif;
       text-decoration: none;
       position: relative;
-      float: right;
-      bottom: 80px;
+      top: 100%;
+      left: 50%; 
     }
 
     .menu a[aria-current] {
@@ -40,7 +40,7 @@
   <div class="headerMaster">
       <header class="header" id="siteHeader">
         <a class="logo" href="<?= $site->url() ?>">
-          <img src="<?= $site->page('home')->image('logo.png')->url() ?>" alt="Site Logo" style="width:160px;height:100px;border:0;">
+          <img src="<?= $site->page('home')->image('logo.png')->url() ?>" alt="Site Logo" style="width:10%;height:9%;border:0;">
         </a>
 
         <nav id="menu" class="menu">
